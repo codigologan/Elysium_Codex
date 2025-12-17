@@ -1,5 +1,10 @@
 # 🧬 Elysium Codex
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.5.1-red)
+![CUDA](https://img.shields.io/badge/CUDA-12.1-green)
+![GPU](https://img.shields.io/badge/GPU-RTX%203060-brightgreen)
+
 **Elysium Codex** é um projeto híbrido de **pesquisa, desenvolvimento e criação simbiótica** que integra **Inteligência Artificial, Machine Learning, computação científica e reflexão filosófica**.
 
 O projeto funciona como um **laboratório vivo**, unindo:
