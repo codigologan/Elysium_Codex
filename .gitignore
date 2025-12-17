@@ -1,0 +1,19 @@
+# Ambientes virtuais
+.venv*
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs e experimentos
+runs/
+*.log
+
+# Dados e modelos (evita arquivos pesados)
+data/
+models/
+
+# Sistema
+.DS_Store
+Thumbs.db
