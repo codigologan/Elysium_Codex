@@ -1,0 +1,2 @@
+﻿,episode,reward,mean_reward,episode_length,epsilon,timestamp,run_name,curiosity,frustration,confidence,fear,flow,narration,reward_ma,reward_std_w,mean_reward_ma,slope_w,cognitive_phase,cognitive_phase_label
+799,199,1.395,1.2171,8,0.05,2025-12-20T22:32:34.534697,rl_logan_v1_20251220_193144,1,0.3933,1,0,1,estou confiante. posso consolidar.,1.2171,0.3855879795841925,1.137556,0.004774108043217289,transicao,Transicao

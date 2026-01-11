@@ -1,0 +1,5 @@
+﻿,phase,label,start,end
+0,exploracao_caotica,Exploracao Caotica,0,34
+1,exploracao_guiada,Exploracao Guiada,35,111
+2,consolidacao,Consolidacao,112,124
+3,transicao,Transicao,125,199

@@ -1,0 +1,2 @@
+timestamp,run_name,episodes,mean_reward_last_50,max_reward,min_reward
+2025-12-19T00:56:30,rl_logan_v1_20251219_005620,200,0.4792000000000002,0.93,-33.67000000000004

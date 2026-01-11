@@ -1,0 +1,10 @@
+{
+  "run_name": "rl_logan_v1",
+  "seed": 42,
+  "episodes": 200,
+  "max_steps": 100,
+  "batch_size": 32,
+  "lr": 0.001,
+  "gamma": 0.99,
+  "device": "cpu"
+}

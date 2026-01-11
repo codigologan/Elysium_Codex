@@ -1,0 +1,2 @@
+﻿,run_name,episodes,mean_reward_last,reward_std_last_window,learning_velocity_slope,exploration_efficiency,episode_length_mean_last_window,episode_length_last,epsilon_last,timestamp_last
+0,rl_logan_v1_20251220_193144,200,1.2171,0.38558797958442637,0.004774108043217289,3530.0000000001446,8.46,8,0.05,2025-12-20T22:32:34.534697
