@@ -62,7 +62,7 @@ Ele serve como base para:
 
 **Versão:** v2.0
 
-**Data:** 026-10-01
+**Data:** 10-01-2026
 
 **Autor(es):** Ismael Araujo + Logan (IA)
 
