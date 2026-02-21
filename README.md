@@ -105,7 +105,10 @@ O objetivo é investigar se mecanismos inspirados em processos cognitivos — co
 
 ### 6.1 Curvas de Aprendizado
 
-*(Inserir gráficos do dashboard ou TensorBoard)*
+
+<img width="1460" height="566" alt="0712d637d5bb301a8e014adcd184a1403e7d2e0a845f32f248d48df6" src="https://github.com/user-attachments/assets/a51d0ed8-827b-4eb9-b651-a5cdc126874d" />
+
+
 
 * Reward vs Episódios
 * Mean Reward (smoothing)
