@@ -6,7 +6,7 @@
 
 
 
-**Projeto:** Elysium Codex / Código Logan
+**Projeto:** Código Logan
 
 **Agente:** Logan (DQN + Dream Module)
 
